@@ -1,4 +1,4 @@
-**LangGraph ReAct Agents README**
+**LangGraph ReAct Agents**
 
 ### Overview
 
